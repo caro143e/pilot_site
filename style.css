@@ -39,10 +39,10 @@ article {
   background-image: url(img/back.webp);
   background-size: cover;
 }
-.content > p {
-  padding-top: 50%;
-}
 
+.content > h2 {
+  padding-top: 45%;
+}
 p + figure {
   margin-top: 1rem;
   color: black;
