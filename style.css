@@ -59,3 +59,8 @@ p + figure {
   height: 100%;
   object-fit: cover;
 }
+video {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
